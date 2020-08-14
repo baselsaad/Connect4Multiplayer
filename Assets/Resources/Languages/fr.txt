@@ -1,0 +1,17 @@
+Createroom= انشاء غرفة
+Createroomwithname= انشاء غرفة
+Join= الانضمام الى الغرفة
+Joinwithname= الانضمام الى الغرفة
+Enternameofroom= ادخل اسم الغرفة
+Newgame= لعبة جديدة
+Multiplayer= اون لاين
+Settings= الاعدادات
+Exit= الخروج
+Wintext= 
+Easy= سهل
+Hard= صعب
+Veryhard= صعب جدا
+Backbutton= العودة
+Musicbutton= الموسيقى
+Settingtitle= الاعدادات
+Settingsbackbutton= العودة

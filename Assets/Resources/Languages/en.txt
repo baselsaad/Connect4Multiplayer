@@ -1,0 +1,17 @@
+Createroom= Create Room
+Createroomwithname= Create Room
+Join= Join Game
+Joinwithname= Join Game
+Enternameofroom= Enter Name of room ....
+Newgame= New Game
+Multiplayer= Multiplayer
+Settings= Settings
+Exit= Exit
+Wintext= 
+Easy= Easy
+Hard= Hard
+Veryhard= Very Hard
+Backbutton= Back
+Musicbutton= Music
+Settingtitle= Settings
+Settingsbackbutton= Back
