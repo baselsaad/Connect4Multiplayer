@@ -60,6 +60,7 @@ public class GameLogic : MonoBehaviour
 
     void Start()
     {
+        Screen.autorotateToLandscapeLeft = true;
         currentGameBoard = new Board();
         gameRules = new Connect4GameRules();
         gameAI = new Minimax<Board>(gameRules);
@@ -122,6 +123,8 @@ public class GameLogic : MonoBehaviour
         cameraBehavior.disableControl();
         cameraBehavior.moveCameraTo(cameraBehavior.MenuPosition);
         isPlaying = false;
+
+       
     }
 
     /**

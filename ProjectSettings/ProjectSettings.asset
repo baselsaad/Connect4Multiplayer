@@ -247,7 +247,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/Basel/Desktop/Connect 4/keyconnect4.keystore
+  AndroidKeystoreName: C:/Users/Basel/Desktop/Connect 4/keyConnect4NewKey.keystore
   AndroidKeyaliasName: connect4
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1

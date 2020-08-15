@@ -25,8 +25,13 @@ public class MenusScript : MonoBehaviour
         
     }
 
+    private void Start()
+    {
+        Screen.autorotateToLandscapeLeft = true;
+    }
     private void Awake()
     {
+       
         AvailableMatchesList.OnAvailableMatchesChanged += AvailableMatchesList_OnAvailableMatchesChanged;
     }
 
